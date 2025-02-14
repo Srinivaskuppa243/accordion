@@ -1,0 +1,55 @@
+{
+    "faqs":[
+        {
+            "id":1,
+            "Q":"Write the difference between npm and npx ?",
+            "A":"npm (Node Package Manager) installs and manages packages, while npx executes packages without installing them globally."
+        },
+        {
+            "id":2,
+            "Q":"What is package.json in a React project, and what is its purpose?",
+            "A":"It is a configuration file that stores project metadata, dependencies, scripts, and settings for the project."
+        },
+        {
+            "id":3,
+            "Q":"What is package-lock.json, and why is it needed?",
+            "A":"It locks the exact versions of dependencies to ensure consistency across different environments."
+        },
+        {
+            "id":4,
+            "Q":"What are dependencies in React? How are they different from devDependencies?",
+            "A":"Dependencies are required for production, while devDependencies are only needed for development and testing"
+        },
+        {
+            "id":5,
+            "Q":"What is the purpose of the node_modules folder in a React project?",
+            "A":"Public contains static assets, while src holds React components and main application logic."
+        },
+        {
+            "id":6,
+            "Q":"What is the purpose of the public & src folder in a React project?",
+            "A":"npm (Node Package Manager) installs and manages packages, while npx executes packages without installing them globally."
+        },
+        {
+            "id":7,
+            "Q":"What are the key features of React.js?",
+            "A":"Component-based architecture, Virtual DOM, JSX, unidirectional data flow, and state management."
+        },
+        {
+            "id":8,
+            "Q":"What is JSX? How is it different from HTML?",
+            "A":"JSX is a syntax extension for JavaScript that allows writing HTML-like code in React, whereas HTML is a markup language."
+        },
+        {
+            "id":9,
+            "Q":"What is the Virtual DOM, and how does it improve performance?",
+            "A":"The Virtual DOM updates only changed elements efficiently instead of re-rendering the entire UI."
+        },
+        {
+            "id":10,
+            "Q":"What is the difference between functional components and class components?",
+            "A":"Functional components are simpler, use hooks, and have no lifecycle methods, while class components use lifecycle methods and state."
+        }
+
+    ]
+}
